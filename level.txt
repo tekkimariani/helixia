@@ -1,0 +1,128 @@
+[
+  {
+    "uid": 0,
+    "name": "Generated game object",
+    "components": [
+      {
+        "type": "com.tekkimariani.helixia.component.Transform",
+        "properties": {
+          "position": {
+            "x": 1555.1362,
+            "y": 1063.3472
+          },
+          "scale": {
+            "x": 32.0,
+            "y": 32.0
+          },
+          "rotation": 0.0,
+          "zIndex": 0,
+          "uid": 4
+        }
+      },
+      {
+        "type": "com.tekkimariani.helixia.component.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 16.0,
+            "height": 16.0,
+            "texture": {
+              "filepath": "C:\\Users\\tekki\\eclipse-workspace\\helixia\\src\\main\\resources\\asset\\image\\spritesheet\\decorationsAndBlocks.png",
+              "width": 112,
+              "height": 192
+            },
+            "textureCoordinates": {
+              "topLeft": {
+                "x": 0.0,
+                "y": 0.8333333
+              },
+              "topRight": {
+                "x": 0.14285715,
+                "y": 0.8333333
+              },
+              "bottomLeft": {
+                "x": 0.0,
+                "y": 0.75
+              },
+              "bottomRight": {
+                "x": 0.14285715,
+                "y": 0.75
+              }
+            }
+          },
+          "uid": 5
+        }
+      }
+    ],
+    "doSerialization": true,
+    "isDead": false
+  },
+  {
+    "uid": 1,
+    "name": "Generated game object",
+    "components": [
+      {
+        "type": "com.tekkimariani.helixia.component.Transform",
+        "properties": {
+          "position": {
+            "x": 1939.1361,
+            "y": 1244.5034
+          },
+          "scale": {
+            "x": 32.0,
+            "y": 32.0
+          },
+          "rotation": 0.0,
+          "zIndex": 0,
+          "uid": 8
+        }
+      },
+      {
+        "type": "com.tekkimariani.helixia.component.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 16.0,
+            "height": 16.0,
+            "texture": {
+              "filepath": "C:\\Users\\tekki\\eclipse-workspace\\helixia\\src\\main\\resources\\asset\\image\\spritesheet\\decorationsAndBlocks.png",
+              "width": 112,
+              "height": 192
+            },
+            "textureCoordinates": {
+              "topLeft": {
+                "x": 0.0,
+                "y": 0.8333333
+              },
+              "topRight": {
+                "x": 0.14285715,
+                "y": 0.8333333
+              },
+              "bottomLeft": {
+                "x": 0.0,
+                "y": 0.75
+              },
+              "bottomRight": {
+                "x": 0.14285715,
+                "y": 0.75
+              }
+            }
+          },
+          "uid": 9
+        }
+      }
+    ],
+    "doSerialization": true,
+    "isDead": false
+  }
+]
